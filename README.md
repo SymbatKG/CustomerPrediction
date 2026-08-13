@@ -209,6 +209,3 @@ Please refer to `CONTRIBUTING.md` for branch naming conventions, PR template req
 ## Tech Stack
 
 `scikit-learn` (Pipeline, ColumnTransformer, GridSearchCV, RandomForestClassifier, DecisionTreeClassifier) · `XGBoost` · `pandas` / `numpy` · `matplotlib` / `seaborn`
-
----
-*Author: Symbat Satybaldieva*
